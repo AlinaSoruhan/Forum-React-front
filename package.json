@@ -1,5 +1,10 @@
 {
   "devDependencies": {
     "@types/react": "^19.3.0"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.14.0",
+    "react-hook-form": "^7.91.0",
+    "react-redux": "^9.3.1"
   }
 }
